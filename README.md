@@ -3,9 +3,10 @@
 HouseHold Manager is an application for Android devices that manages households tasks.
 
 ## Features
-* log in, 
+* log in 
 * log out
 * register
+* reset password
 * adding and removing items to shopping lists. 
 * assigning tasks to users
 * Take a picture from phone Camera
